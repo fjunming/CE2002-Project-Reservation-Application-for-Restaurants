@@ -1,0 +1,82 @@
+
+Date/Time:
+03/11/21 06:00 PM
+Order List:
+2,Cookies n cream ice cream,5.0
+2,Chicken fried rice,10.0
+2,Tea,4.0
+Subtotal:
+19.00
+Service Charge:
+1.90
+GST:
+1.47
+Membership Discount:
+0.00
+Total Charge:
+22.37
+Date/Time:
+12/11/21 05:20 pm
+Order List:
+2,Promo set 2,15.0
+Subtotal:
+15
+Service Charge:
+1.5
+GST:
+1.155
+Membership Discount:
+1.77
+Total Charge:
+15.8895
+
+Date/Time:
+12/11/21 05:30 pm
+Order List:
+2,Chicken fried rice,10.0
+2,Milo,4.0
+2,Durian ice cream,4.0
+Subtotal:
+18
+Service Charge:
+1.8
+GST:
+1.386
+Membership Discount:
+0.0
+Total Charge:
+21.186
+
+
+Date/Time:
+12/11/21 05:50 pm
+Order List:
+2,Promo set 1,13.8
+2,Chicken fried rice,10.0
+Subtotal:
+23.800000000000000710542735760100185871124267578125
+Service Charge:
+2.3800000000000000710542735760100185871124267578125
+GST:
+1.832600000000000054711790653527714312076568603515625
+Membership Discount:
+2.81
+Total Charge:
+25.2113400000000007526779199906741268932819366455078125
+
+
+Date/Time:
+12/11/21 05:55 pm
+Order List:
+2,Promo set 2,15.0
+Subtotal:
+15
+Service Charge:
+1.5
+GST:
+1.155
+Membership Discount:
+0.0
+Total Charge:
+17.655
+

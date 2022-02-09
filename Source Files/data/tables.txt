@@ -1,0 +1,10 @@
+#Number of tables for 2:
+4
+#Number of tables for 4:
+2
+#Number of tables for 6:
+4
+#Number of tables for 8:
+2
+#Number of tables for 10:
+1
